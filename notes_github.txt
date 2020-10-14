@@ -1,0 +1,6 @@
+sum of github:
+
+cd.. -> backward folder
+cd   -> X forware to folder name X
+ls 	 -> list of subfiles from the specific path X
+git add . (all the changes that we made to out project and hit enter)
